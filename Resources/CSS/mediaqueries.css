@@ -1,7 +1,7 @@
 /* for L laptos 1440px --done */
 
 /* for Laptop 1024px  */
-@media screen and (min-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .hero-text-box {
     width:100%;
     padding: 0 2%;
